@@ -26,7 +26,7 @@ BookIt addresses these challenges through innovative Web3 technology:
 - **Non-transferable Digital Tickets**: Smart contract-secured tickets with cryptographic proof of ownership
 - **Reputation System**: On-chain verification of attendance and authenticated reviews
 - **Direct Value Transfer**: Peer-to-peer transactions without intermediary fees
-- **Organizer Staking**: 0.1 ETH stake requirement ensuring accountability
+- **Organizer Staking**: 0.2 ETH stake requirement ensuring accountability
 
 ## 🛠️ Tech Stack
 
