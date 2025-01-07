@@ -2,6 +2,13 @@
 
 BookIt is revolutionizing event ticketing through web3 technology, creating a trustless and transparent ecosystem for event organizers and attendees.
 
+## Deployments 
+1) Live Demo : [https://book-it-opal.vercel.app/](https://book-it-opal.vercel.app/)
+2) Deployed contract : [lensExplorer](https://block-explorer.testnet.lens.dev/address/0xdB023ADd0dEFF974d03D184173c5CDd60C25cA86)
+3) Contract code : [Contract code](https://github.com/dhananjaypai08/LENS-HOLIDAYHACK/blob/master/contractsv1/contracts/BookIt.sol)
+4) Onchain AppKit code : [Familykit](https://github.com/dhananjaypai08/LENS-HOLIDAYHACK/blob/master/Frontend/src/components/Web3Provider.jsx)
+5) Slide Deck : [Deck](https://www.canva.com/design/DAGbch5iMGU/droge_pnR2o1U1nRPRIQlA/edit?utm_content=DAGbch5iMGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 🎯 Problem Statement
 
 The current event ticketing industry faces several critical challenges:
