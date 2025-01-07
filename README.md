@@ -71,7 +71,7 @@ npm run dev
 
 5. Deploy smart contracts
 ```bash
-npx hardhat run scripts/deploy.js --network <network-name>
+npx hardhat run scripts/deploy.js --network lensTestnet
 ```
 
 ## 🤝 Contributing
